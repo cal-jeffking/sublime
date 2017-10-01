@@ -1,0 +1,5 @@
+packages/*
+!packages/User/
+packages/User/*
+!*.sublime-settings
+!*.sublime-keymap

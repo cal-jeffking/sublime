@@ -1,0 +1,7 @@
+[
+  // Start: CF Bindings
+
+  //{ "keys": ["F12"],"command": "side_bar_open_in_browser" ,"args":{"paths":[], "type":"testing"}},
+  // End CF Bindings
+  { "keys": ["ctrl+shift+2"], "command": "docifycfml" }
+]

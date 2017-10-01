@@ -1,0 +1,32 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+		"0_package_control_loader"
+	],
+	"installed_packages":
+	[
+		"Boxy Theme",
+		"BracketHighlighter",
+		"BufferScroll",
+		"CFMLDocPlugin",
+		"DocBlockr",
+		"Emmet",
+		"Grunt",
+		"HTML-CSS-JS Prettify",
+		"LESS",
+		"Package Control",
+		"PackageResourceViewer",
+		"Sass",
+		"SideBarEnhancements",
+		"Sublime TFS",
+		"SublimeLinter",
+		"SublimeLinter-jshint",
+		"SublimeTmpl",
+		"Terminal",
+		"Theme - Flatland",
+		"Theme - Soda",
+		"Theme - Spacegray",
+		"View In Browser"
+	]
+}
